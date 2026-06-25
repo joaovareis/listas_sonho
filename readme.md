@@ -1,1 +1,1 @@
-Repositório dedicado a resolução das listas do projeto Sonho - Mobile Robotics
+Repositório dedicado às listas de exercícios do projeto Sonho
