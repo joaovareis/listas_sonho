@@ -1,13 +1,13 @@
 def calculator(*args):
 
     """
-    Perform a multiplication or sum of the received arguments, depending on the first
+    Perform a multiplication or sum of the received arguments, depending on the first.
 
     Args:
-        *args (tuple): Operation (string) followed by values (float) to be used
+        *args (tuple): Operation (string) followed by values (float) to be used.
 
     Returns:
-        (float): The value returned by perfoming the operation solicited
+        (float): The value returned by perfoming the operation solicited.
 
     Raises:
         TypeError: If the first element is not an operation (string) or the following aren't numbers.
