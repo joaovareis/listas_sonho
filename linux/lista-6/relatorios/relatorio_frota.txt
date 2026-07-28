@@ -1,0 +1,25 @@
+--- Relatorio Consolidado da Frota ---
+Data: 2026-07-28 13:16:05
+
+--- roboA ---
+Status:	SAUDAVEL
+error:	2
+fatal:	0
+critical:	0
+
+--- roboB ---
+Status:	DEGRADADO
+error:	8
+fatal:	2
+critical:	2
+
+--- roboZ ---
+Status:	SAUDAVEL
+error:	1
+fatal:	0
+critical:	0
+
+=== Resumo Final ===
+ Saudavel:	2 robo(s)
+ Degradado:	1 robo(s)
+ Critico:	0 robo(s)
