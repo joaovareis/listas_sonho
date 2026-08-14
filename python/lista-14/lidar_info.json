@@ -1,0 +1,8 @@
+{
+    "lidar": "rplidar_c1",
+    "data": {
+        "angle_min": -3.1241390705108643,
+        "angle_max": 3.1415927410125732,
+        "angle_increment": 0.008714509196579456
+    }
+}
