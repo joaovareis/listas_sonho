@@ -1,0 +1,3 @@
+Total de leituras, 4580
+Leituras descartadas por ruido excessivo, 2
+Leituras filtradas salvas, 4578
